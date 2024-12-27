@@ -3,7 +3,7 @@ import json
 import random as ran
 
 
-token = "8029162780:AAGvTWVtQrzQoQQCzwLc1sDujxgRIRwJ4eM"
+token = ""
 
 bot = tb.TeleBot(token)
 
